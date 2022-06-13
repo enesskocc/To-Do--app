@@ -1,7 +1,7 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-002 : To-Do App (JS-02)
+# Project-002 : To-Do App (JS-02) ---> https://enesskocc.github.io/To-Do--app/
 
 ## Description
 Project aims to create a simple To-Do App.
@@ -23,12 +23,7 @@ Project aims to create a simple To-Do App.
         |----index.js
 ```
 
-## Expected Outcome
 
-![Project 002 Snapshot](project_002_1.gif)
-![Project 002 Snapshot](project_002_2.gif)
-![Project 002 Snapshot](project_002_3.gif)
-![Project 002 Snapshot](project_002_4.gif)
 
 ## Objective
 
