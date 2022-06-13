@@ -27,11 +27,12 @@ body {
 }
 
 header {
-  font-size: 3.5rem;
+  font-size: 2.3rem;
   color: white;
   text-shadow: 3px 5px 10px black;
   text-align: center;
-  padding: 3rem;
+  padding-top: 47px;
+  padding-left: 47px;
   background-image: url(./sunset-g23a9c5dbd_1920.jpg);
   background-size: cover;
   background-position: center;
